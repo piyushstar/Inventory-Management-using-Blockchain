@@ -1,0 +1,16 @@
+{
+    "sender": "",
+    "receiver": "",
+    "amount": 
+}
+
+{
+    "amount": 1,
+    "receiver": "Krish",
+    "sender": {
+      "ConsignmentID": "C100231",
+      "Consignment_in_Date": "01-07-20",
+      "Consignment_out_Date": "11-07-20",
+      "Total_Storage_Cost": "4000",
+      "WarehouseID": "W2"
+    }
